@@ -1,6 +1,6 @@
 # XYZ Company Branch Network Design
 
-## Project Description
+## Project Description 
 
 XYZ Company, a fast-growing company in Eastern Australia, is opening a branch near the local village of Bonalbo. They require a separate network for the branch operations, distinct from the headquarters. As a young network engineer hired for the task, the goal is to design and implement the branch network to meet the company's requirements efficiently.
 
